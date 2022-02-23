@@ -6,7 +6,7 @@ server = app.server
 app.layout = html.Div([
     html.H1('You Passed'),
     github_info_header(),
-    html.Img(src="assets/burb.jpeg")
+    html.Img(src="assets/richerd.png")
 ])
 
 if __name__ == '__main__':
